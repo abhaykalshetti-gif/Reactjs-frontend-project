@@ -1,5 +1,11 @@
-Folder Structure 
+Project Preview in Viedio format
+|
+|
+V
+https://www.awesomescreenshot.com/video/43941684?key=07a0baeef5bbca11cb5305b9057259a1
 
+
+Folder Structure 
 advancedreact-frontend-assignment/
 ├── public/
 │
